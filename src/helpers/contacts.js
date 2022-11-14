@@ -8,8 +8,8 @@ const contact = [{
     id:1,
   },
   {
-    first: "Noor",
-    last: "Ayn",
+    first: "Alia",
+    last: "Noor",
     avatar: "https://placekitten.com/g/200/200",
     twitter: "Noor_Ayn",
     notes: "Some notes",
